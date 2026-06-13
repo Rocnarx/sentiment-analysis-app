@@ -112,9 +112,8 @@ The experience was okay.
 
 The app displays the predictions in a table and allows users to download the results as a CSV file.
 
-```markdown
 ![App Screenshot](assets/app_screenshot.png)
-```
+
 
 ## Project Structure
 
